@@ -1,0 +1,44 @@
+       {
+        "BigQuery Schema": [
+            {"name": "first_name", 
+            "type": "STRING"
+            },
+            {
+             "name": "last_name",
+             "type": "STRING"
+            },
+            { 
+             "name": "age",
+             "type": "INT64"
+            },
+            {
+             "name": "gender",
+             "type": "STRING"
+            },
+            {
+             "name": "occupation",
+             "type": "STRING"
+            },
+            {
+             "name": "location",
+             "type": "STRING"
+            },
+            {
+                
+             "name": "email",
+             "type": "STRING"
+            },
+            {
+             "name": "phone",
+             "type": "STRING"
+            },
+            {
+             "name": "join_date",
+             "type": "DATE"
+            },
+            {
+            "name": "status",
+             "type": "STRING"
+            }
+        ]
+    }
