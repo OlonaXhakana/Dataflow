@@ -1,0 +1,64 @@
+John,Doe,25,Male,Engineer,New York,john.doe@email.com,1234567890,2021-01-01,Active
+Jane,Smith,30,Female,Doctor,Los Angeles,jane.smith@email.com,2345678901,2020-11-15,Inactive
+Alice,Johnson,28,Female,Teacher,Chicago,alice.johnson@email.com,3456789012,2019-05-23,Active
+Bob,Lee,35,Male,Artist,Houston,bob.lee@email.com,4567890123,2018-09-10,Active
+Charlie,Brown,40,Male,Writer,Dallas,charlie.brown@email.com,5678901234,2017-03-19,Inactive
+David,Wilson,22,Male,Designer,San Francisco,david.wilson@email.com,6789012345,2022-07-02,Active
+Emily,Moore,27,Female,Scientist,Seattle,emily.moore@email.com,7890123456,2018-11-11,Active
+Frank,Clark,33,Male,Manager,Miami,frank.clark@email.com,8901234567,2016-12-14,Inactive
+Grace,Lewis,31,Female,Engineer,Denver,grace.lewis@email.com,9012345678,2021-05-30,Active
+Hannah,Young,29,Female,Teacher,Portland,hannah.young@email.com,1234567890,2017-08-01,Active
+Ian,Walker,25,Male,Chef,Atlanta,ian.walker@email.com,2345678901,2019-03-17,Inactive
+Jack,Adams,38,Male,Lawyer,Chicago,jack.adams@email.com,3456789012,2015-04-22,Active
+Kimberly,Martin,41,Female,Artist,Boston,kimberly.martin@email.com,4567890123,2022-09-11,Inactive
+Liam,King,26,Male,Designer,Los Angeles,liam.king@email.com,5678901234,2018-06-19,Active
+Megan,Taylor,32,Female,Scientist,San Francisco,megan.taylor@email.com,6789012345,2016-01-10,Inactive
+Noah,Scott,28,Male,Manager,Houston,noah.scott@email.com,7890123456,2017-09-05,Active
+Olivia,Allen,37,Female,Engineer,Dallas,olivia.allen@email.com,8901234567,2019-11-02,Inactive
+Paul,Hall,34,Male,Teacher,Seattle,paul.hall@email.com,9012345678,2020-06-15,Active
+Quinn,Clark,29,Female,Chef,Portland,quinn.clark@email.com,1234567890,2018-07-23,Inactive
+Rachel,Green,33,Female,Scientist,Chicago,rachel.green@email.com,2345678901,2017-04-12,Active
+Samuel,Evans,26,Male,Writer,Miami,samuel.evans@email.com,3456789012,2021-02-20,Active
+Tina,White,42,Female,Manager,Los Angeles,tina.white@email.com,4567890123,2020-01-05,Inactive
+Ursula,Thomas,39,Female,Artist,New York,ursula.thomas@email.com,5678901234,2018-09-22,Active
+Victor,Garcia,24,Male,Chef,Houston,victor.garcia@email.com,6789012345,2022-11-13,Inactive
+Wendy,Martinez,31,Female,Teacher,Boston,wendy.martinez@email.com,7890123456,2019-07-30,Active
+Xander,Lopez,29,Male,Manager,San Francisco,xander.lopez@email.com,8901234567,2021-10-10,Active
+Yvonne,Green,28,Female,Designer,Chicago,yvonne.green@email.com,9012345678,2017-12-01,Inactive
+Zachary,Hernandez,36,Male,Engineer,Miami,zachary.hernandez@email.com,1234567890,2020-04-18,Active
+Abigail,King,26,Female,Scientist,Portland,abigail.king@email.com,2345678901,2016-09-23,Inactive
+Brandon,Lee,30,Male,Writer,Dallas,brandon.lee@email.com,3456789012,2018-08-06,Active
+Catherine,Wright,27,Female,Chef,New York,catherine.wright@email.com,4567890123,2019-12-30,Inactive
+Daniel,Evans,31,Male,Engineer,Houston,daniel.evans@email.com,5678901234,2021-02-14,Active
+Eleanor,Scott,38,Female,Teacher,San Francisco,eleanor.scott@email.com,6789012345,2016-04-02,Inactive
+Freddie,Morris,29,Male,Manager,Boston,freddie.morris@email.com,7890123456,2020-05-27,Active
+George,Adams,35,Male,Artist,Miami,george.adams@email.com,8901234567,2017-08-15,Inactive
+Holly,Johnson,25,Female,Scientist,Dallas,holly.johnson@email.com,9012345678,2019-03-29,Active
+Irene,Thompson,33,Female,Chef,Portland,irene.thompson@email.com,1234567890,2021-07-13,Inactive
+Jake,Roberts,41,Male,Writer,Los Angeles,jake.roberts@email.com,2345678901,2020-09-11,Active
+Karen,Garcia,36,Female,Teacher,Chicago,karen.garcia@email.com,3456789012,2018-01-05,Inactive
+Leo,Martinez,29,Male,Designer,San Francisco,leo.martinez@email.com,4567890123,2021-06-08,Active
+Mia,Lee,32,Female,Scientist,Portland,mia.lee@email.com,5678901234,2019-11-25,Inactive
+Nathan,Walker,34,Male,Manager,Los Angeles,nathan.walker@email.com,6789012345,2017-04-22,Active
+Olivia,Roberts,27,Female,Artist,Dallas,olivia.roberts@email.com,7890123456,2022-01-17,Inactive
+Peter,Clark,39,Male,Chef,Houston,peter.clark@email.com,8901234567,2019-10-07,Active
+Quincy,Lopez,35,Male,Writer,San Francisco,quincy.lopez@email.com,9012345678,2021-09-03,Active
+Rachel,Scott,33,Female,Teacher,Miami,rachel.scott@email.com,1234567890,2018-06-12,Inactive
+Steven,Wright,30,Male,Manager,Chicago,steven.wright@email.com,2345678901,2016-02-01,Active
+Tracy,Morris,27,Female,Artist,Boston,tracy.morris@email.com,3456789012,2019-04-23,Inactive
+Ursula,White,33,Female,Scientist,San Francisco,ursula.white@email.com,4567890123,2020-08-05,Active
+Vincent,Brown,29,Male,Chef,New York,vincent.brown@email.com,5678901234,2017-11-18,Inactive
+Walter,Young,30,Male,Writer,Houston,walter.young@email.com,6789012345,2019-09-29,Active
+Xander,Thompson,27,Male,Designer,Boston,xander.thompson@email.com,7890123456,2021-05-14,Active
+Yasmine,Martin,33,Female,Teacher,Los Angeles,yasmine.martin@email.com,8901234567,2022-02-17,Inactive
+Zoe,King,31,Female,Scientist,Dallas,zoe.king@email.com,9012345678,2018-10-21,Active
+Ashley,Evans,28,Female,Artist,San Francisco,ashley.evans@email.com,1234567890,2017-05-13,Inactive
+Benjamin,Allen,26,Male,Chef,Chicago,benjamin.allen@email.com,2345678901,2021-07-30,Active
+Chloe,Green,33,Female,Manager,Houston,chloe.green@email.com,3456789012,2020-12-17,Inactive
+David,Thompson,40,Male,Writer,Los Angeles,david.thompson@email.com,4567890123,2019-01-11,Active
+Ella,Roberts,29,Female,Scientist,San Francisco,ella.roberts@email.com,5678901234,2017-07-09,Inactive
+Felix,Lee,32,Male,Chef,Portland,felix.lee@email.com,6789012345,2016-11-04,Active
+Grace,Adams,30,Female,Manager,Miami,grace.adams@email.com,7890123456,2018-05-16,Inactive
+Hannah,Green,28,Female,Teacher,New York,hannah.green@email.com,8901234567,2020-06-19,Active
+Isaac,Lopez,31,Male,Scientist,Chicago,isaac.lopez@email.com,9012345678,2021-04-22,Inactive
+Jackie,King,35,Female,Artist,San Francisco,jackie.king@email.com,1234567890,2016-08-13,Active
